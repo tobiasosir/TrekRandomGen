@@ -1,0 +1,3 @@
+Base Code is the barest version, a place to start. The intent is to produce three random numbers in different ranges (1-5, 1-7 and 1-24).
+The first number represents the show (TOS, TNG, DS9, VOY, ENT); the second the season of that show; the third the episode in that season.
+Problem: how to limit the range of the next number based on the previous? i.e. TOS only has three seasons, so the second number should have a range of only 1-3, not 1-7
